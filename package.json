@@ -1,0 +1,22 @@
+{
+  "author": "Bryn Dyment <bryndyment@gmail.com>",
+  "description": "React hook for use with MUI.",
+  "license": "ISC",
+  "main": "lib/index.ts",
+  "name": "@karaokeyoga/use-opening",
+  "types": "lib",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "optionalDependencies": {
+    "@types/node": "^18.11.3",
+    "@types/react": "17.0.49"
+  },
+  "scripts": {
+    "build": "rm ./lib/* && tsc"
+  }
+}
