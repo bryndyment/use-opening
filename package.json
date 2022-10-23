@@ -3,7 +3,7 @@
   "description": "React hook for use with MUI.",
   "license": "ISC",
   "main": "lib/index.ts",
-  "name": "@karaokeyoga/use-opening",
+  "name": "use-opening",
   "types": "lib",
   "version": "1.0.0",
   "dependencies": {
