@@ -2,7 +2,7 @@ import { useCallback, useState } from 'react'
 
 // types
 
-export interface Opening {
+export type Opening = {
   anchor: any | null
   close: () => void
   isOpen: boolean
