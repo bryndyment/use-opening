@@ -25,6 +25,6 @@
     "url": "git+https://github.com/bryndyment/use-opening.git"
   },
   "scripts": {
-    "build": "rm index.d.ts index.d.ts.map index.js index.js.map && tsc"
+    "build": "tsc"
   }
 }
