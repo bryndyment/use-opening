@@ -1,13 +1,14 @@
 {
   "author": "Bryn Dyment <bryndyment@gmail.com>",
   "description": "React hook for use with MUI.",
-  "license": "ISC",
+  "license": "MIT",
   "name": "use-opening",
   "version": "1.0.4",
   "bugs": {
     "url": "https://github.com/bryndyment/use-opening/issues"
   },
   "devDependencies": {
+    "@types/react": "^16 || ^17 || ^18",
     "typescript": "5.0.3"
   },
   "files": [
