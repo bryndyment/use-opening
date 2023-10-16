@@ -3,7 +3,7 @@
   "description": "React hook for use with MUI.",
   "license": "MIT",
   "name": "use-opening",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "bugs": {
     "url": "https://github.com/bryndyment/use-opening/issues"
   },
